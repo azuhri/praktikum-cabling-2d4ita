@@ -1,5 +1,5 @@
 # LAPORAN PRAKTIKUM KONSEP JARINGAN
-##  Muh. Khozinatul Asror (3121600026)
+##  Mochammad Rizal (3121600008)
 ## 2 D4 IT-A 
 
 
