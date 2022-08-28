@@ -92,4 +92,5 @@ Led 7 : menyala  - Led 7 : menyala
 Led 8 : menyala  - Led 8 : menyala
 
 Contoh pada Kabel UTP Straight
-![](https://vimeo.com/743843317)
+https://www.youtube.com/shorts/lnH3w2Evyqo
+![](https://github.com/D4-IT-A-21/PRAKTIKUM-IT-A/blob/PKJ_CABLING/assets/testing.mp4)
