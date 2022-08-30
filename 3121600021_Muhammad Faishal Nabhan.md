@@ -1,5 +1,5 @@
 # LAPORAN PRAKTIKUM KONSEP JARINGAN
-##  Muhammad Rizqy Ferdiansyah (3121600024)
+##  Muhammad Faishal Nabhan (3121600021)
 ## 2 D4 IT-A 
 
 
