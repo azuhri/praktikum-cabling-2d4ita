@@ -3,14 +3,14 @@
 ## 2 D4 IT-A 
 
 
-1 DASAR TEORI
+### 1 DASAR TEORI
 Kabel UTP merupakan salah satu media transmisi yang paling banyak
 digunakan untuk membuat sebuah jaringan local (Local Area Network), selain karena
 harganya relative murah, mudah dipasang dan cukup bisa diandalkan. Sesuai
 namanya Unshielded Twisted Pair berarti kabel pasangan berpilin/terbelit (twisted
 pair) tanpa pelindung (unshielded)
 
-1.1 MEDIA JARINGAN KOMPUTER
+### 1.1 MEDIA JARINGAN KOMPUTER
 
 Coaxial Cable
 
@@ -24,12 +24,14 @@ Media ini banyak dipakai untuk kondisi khusus. Misalnya pada kapal laut, pengebo
 - UTP (Unshield Twisted Pair)
 Kabel Unshielded twisted-pair (UTP) adalah empat pasangan kawat yang digunakan dalam berbagai jaringan. Masing-masing dari 8 kawat tembaga dalam kabel UTP ditutup oleh bahan insulator dan masing-masing kawat dipilin (twisted) satu sama lain. Disebut Unshielded karena kurang tahan terhadap interferensi elektromagnetik. Dan disebut twisted pair karena di dalamnya terdapat pasangan kabel yang disusun spiral atau saling berlilitan.
 
-1.2 STANDAR KABEL UTP
+### 1.2 STANDAR KABEL UTP
 Pada umumnya, terdapat Standar Internasional yang digunakan dalam urutan warna kabel UTP adalah TIA/EIA 568A dan TIA/EIA 568B.
+
 ![STANDAR URUTAN KABEL](https://www.nesabamedia.com/wp-content/uploads/2018/06/standar-kabel.jpg)
+
 Dengan begitu, kabel straight adalah teknik penyusunan warna kabel dengan menggunakan urutan warna yang sama di kedua ujung kabel UTP tersebut. Jika Anda menggunakan susunan standar TIA/EIA 568A di ujung pertama maka ujung kedua juga menggunakan standar TIA/EIA 568A itu juga. Begitu juga ketika Anda menggunakan standar TIA/EIA 568B (yang paling umum digunakan) maka ujung kabel kedua juga harus menggunakan susunan standar yang sama pula.
 
-1.3 KONEKSI DENGAN KABEL UTP
+### 1.3 KONEKSI DENGAN KABEL UTP
 
 Susunan Kabel Straight
 - Jika Anda hendak membuat jenis kabel straight, maka hal pertama yang harus diperhatikan adalah susunan warna dari ujung kabel yang satu dengan yang lainnya harus menggunakan urutan warna yang sama. Perhatikanlah gambar dibawah ini.
@@ -44,7 +46,7 @@ Susunan Kabel Crossover
 Untuk membuat jenis kabel crossover, maka Anda juga harus memperhatikan urutan warna yang berbeda antara ujung kabel pertama dengan ujung kabel kedua. Perhatikanlah gambar dibawah ini untuk lebih memahami urutan kabel crossover. 
 ![Kabel Cross Over](https://www.nesabamedia.com/wp-content/uploads/2018/06/Susunan-Kabel-Cross-Final.jpg)
 
-2 PEMBUATAN KABEL UTP
+### 2 PEMBUATAN KABEL UTP
 
 A. Membuat Kabel Straight UTP
 1. Kupas bagian ujung kabel UTP, kira-kira 2 cm.
@@ -94,25 +96,32 @@ Ujung B (Konektor 2)
 
 ![Kabel Cross Over](https://www.nesabamedia.com/wp-content/uploads/2018/06/Susunan-Kabel-Cross-Final.jpg)
 
-2.1 ALAT YANG DIPERSIAPKAN & KEGUNAANNYA
+### 2.1 ALAT YANG DIPERSIAPKAN & KEGUNAANNYA
 
 1. Kabel UTP
+
 ![Kabel UTP](https://i0.wp.com/4.bp.blogspot.com/-xPLX3J8_U6w/WQXxNzP6S-I/AAAAAAAAAYY/Jnl7j0nEtWENnv3KxH4jeZcy6X4dAZHcwCLcB/s200/twisted-pair-cable-utp.jpg?resize=200%2C87&ssl=1)
--     Kabel UTP paling umum digunakan pada LAN, dan merupakan salah satu perangkat keras komputer yang digunakan sebagai penghubung atau transmisi data pada sebuah jaringan. Fungsi kabel UTP dalam hal ini adalah untuk membatasi kecepatan akses internet komputer.
+
+- Kabel UTP paling umum digunakan pada LAN, dan merupakan salah satu perangkat keras komputer yang digunakan sebagai penghubung atau transmisi data pada sebuah jaringan. Fungsi kabel UTP dalam hal ini adalah untuk membatasi kecepatan akses internet komputer.
 
 2. Tang Crimp
+
 ![Tang Crimp](https://i0.wp.com/2.bp.blogspot.com/-xJhYE02HsuY/WQXxKMv0PNI/AAAAAAAAAYU/ZYPE76zMbXsTbEGxSskaeodX-z1ILKECwCEw/s200/tang-crimper-or-crimping-tools-vz-nt3104-7.JPG?resize=200%2C200&ssl=1)
--      tang crimping dipakai untuk memotong, memipihkan, hingga mengupas lapisan isolator kabel.
 
-2. Konektor RJ45
+- Tang crimping dipakai untuk memotong, memipihkan, hingga mengupas lapisan isolator kabel.
+
+3. Konektor RJ45
+ 
 ![rj 45](https://i0.wp.com/2.bp.blogspot.com/-vEz-bbmP_74/WQXxqSu7MVI/AAAAAAAAAYo/PSyBd0DzD9YzR2CmQVEdYOpKU_d9-5hXACLcB/s200/2-Cara-Crimping-dan-Pasang-Konektor-RJ-45-pada-Kabel-UTP-LAN-model-Straight-serta-Cross-emerer.com-.jpg?resize=200%2C147&ssl=1)
--     RJ45 adalah konektor kabel ethernet yang kebanyakan memiliki fungsi sebagai konektor pada topologi jaringan komputer LAN (Local Area Network) dan topologi jaringan lainnya. Konektor RJ45 memiliki 8 buah pin.
+- RJ45 adalah konektor kabel ethernet yang kebanyakan memiliki fungsi sebagai konektor pada topologi jaringan komputer LAN (Local Area Network) dan topologi jaringan lainnya. Konektor RJ45 memiliki 8 buah pin.
 
-3. LAN Tester
+4. LAN Tester
+
 ![LAN Tester](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/9/28/8b94c97d-acb7-4136-9cea-99b6c5927776.jpg)
--     LAN tester adalah alat untuk mengecek koneksi sambungan kabel LAN RJ 45 dan RJ 11
+
+- LAN tester adalah alat untuk mengecek koneksi sambungan kabel LAN RJ 45 dan RJ 11
      
-2.2 LANGKAH PEMBUATAN KABEL TIPE STRAIGHT
+### 2.2 LANGKAH PEMBUATAN KABEL TIPE STRAIGHT
 
 A. Membuat Kabel Straight UTP
 1. Kupas bagian ujung kabel UTP, kira-kira 2 cm.
