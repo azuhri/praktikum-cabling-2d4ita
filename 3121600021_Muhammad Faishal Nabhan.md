@@ -64,6 +64,7 @@ A. Membuat Kabel Straight UTP
 - Coklat pada Pin 
 
 (NOTE: JIKA KABEL STRAIGHT, URUTAN WARNA UJUNG A DAN B NYA SAMA)
+
 ![Kabel Straight](https://www.nesabamedia.com/wp-content/uploads/2018/06/Susunan-Kabel-Straight-Final.jpg "Contoh Susunan kabel straight")
 
 
@@ -125,14 +126,23 @@ Ujung B (Konektor 2)
 
 A. Membuat Kabel Straight UTP
 1. Kupas bagian ujung kabel UTP, kira-kira 2 cm.
+
 ![LAN Tester](https://camo.githubusercontent.com/f00fe8ce51d9fca4b510529bfa782171897349887558423d2edfbf784c8f7656/68747470733a2f2f692e706f7374696d672e63632f39465064725037342f494d4732303232303832333135333833352e6a7067)
+
 2. Buka pilinan kabel, luruskan dan urutankan kabel sesuai standar gambar.
+
 ![LAN Tester](https://camo.githubusercontent.com/d475922f3df0175a8c6a7a7c7c61d88685e276fdf4647ed39e72f9875cfe6afc/68747470733a2f2f692e706f7374696d672e63632f744a5136673752742f494d4732303232303832333135353134342e6a7067)
+
 3. Setelah urutannya sesuai standar, potong dan ratakan ujung kabel,
+
 ![LAN Tester](https://camo.githubusercontent.com/f00fe8ce51d9fca4b510529bfa782171897349887558423d2edfbf784c8f7656/68747470733a2f2f692e706f7374696d672e63632f39465064725037342f494d4732303232303832333135333833352e6a7067)
+
 4. Masukan kabel yang sudah lurus dan sejajar tersebut ke dalam konektor RJ-45, dan
+
 5. pastikan semua kabel posisinya sudah benar dengan posisi sebagai berikut:
+
 ![LAN Tester](https://camo.githubusercontent.com/9644d1c4acbcbb856c4b13d77198143d33e3ca61da2b98aa157458c4e8ff652b/68747470733a2f2f692e706f7374696d672e63632f4e305a394e4c58712f494d4732303232303832333135353435312e6a7067)
+
 - Orange Putih pada Pin 
 - Orange pada Pin 
 - Hijau Putih pada 
@@ -142,14 +152,21 @@ A. Membuat Kabel Straight UTP
 - Coklat Putih pada Pin 
 - Coklat pada Pin 
 
-2.3 LANGKAH PEMBUATAN KABEL TIPE CROSSOVER
+### 2.3 LANGKAH PEMBUATAN KABEL TIPE CROSSOVER
 1. Kupas bagian ujung kabel UTP, kira-kira 2 cm.
+
 ![LAN Tester](https://camo.githubusercontent.com/f00fe8ce51d9fca4b510529bfa782171897349887558423d2edfbf784c8f7656/68747470733a2f2f692e706f7374696d672e63632f39465064725037342f494d4732303232303832333135333833352e6a7067)
+
 2. Buka pilinan kabel, luruskan dan urutankan kabel sesuai standar gambar.
+
 ![LAN Tester](https://camo.githubusercontent.com/d475922f3df0175a8c6a7a7c7c61d88685e276fdf4647ed39e72f9875cfe6afc/68747470733a2f2f692e706f7374696d672e63632f744a5136673752742f494d4732303232303832333135353134342e6a7067)
+
 3. Setelah urutannya sesuai standar, potong dan ratakan ujung kabel,
+
 ![LAN Tester](https://camo.githubusercontent.com/f00fe8ce51d9fca4b510529bfa782171897349887558423d2edfbf784c8f7656/68747470733a2f2f692e706f7374696d672e63632f39465064725037342f494d4732303232303832333135333833352e6a7067)
+
 4. Masukan kabel yang sudah lurus dan sejajar tersebut ke dalam konektor RJ-45, dan
+
 5. pastikan semua kabel posisinya sudah benar dengan posisi sebagai berikut:
 ![LAN Tester](https://camo.githubusercontent.com/9644d1c4acbcbb856c4b13d77198143d33e3ca61da2b98aa157458c4e8ff652b/68747470733a2f2f692e706f7374696d672e63632f4e305a394e4c58712f494d4732303232303832333135353435312e6a7067)
 
@@ -173,14 +190,15 @@ Ujung B (Konektor 2)
 - Coklat Putih pada Pin 
 - Coklat pada Pin 
 
-3 PENGETESAN KABEL UTP
+### 3 PENGETESAN KABEL UTP
 Langkah untuk mengecek kabel yang sudah kita buat tadi yaitu dengan menggunakan LAN tester, caranya masukan masing-masing ujung kabel (konektor RJ-45) ke masing2 port yang tersedia pada LAN tester, nyalakan dan pastikan semua lampu LED menyala sesuai dengan urutan kabel yang kita buat.
+
 ![LAN Tester](https://www.ceristekno.com/wp-content/uploads/2013/10/lan-taster-1.jpg)
 
-3.1 ALAT PENGETESAN
+### 3.1 ALAT PENGETESAN
 Alat pengetesan pada kabel utp biasanya menggunakan Lan Tester. Lan Tester adalah alat untuk mengecek koneksi sambungan kabel LAN RJ 45 dan RJ 11. Dilengkapi dengan lampu indikator, tombol pengatur kecepatan pengecekan, serta baterai dan kantong kecil. Dari namananya saja sudah jelas bahwa LAN tester adalah alat untuk mengecek sambungan rangkaian kabel LAN RJ 45 dan RJ 11.
 
-3.2 PENGETESAN KABEL
+### 3.2 PENGETESAN KABEL
 Cara Pengetesan kabel croos Fungsi kabel Straight adalah digunakan untuk menghubungkan 2 device yang berbeda dan merupakan kabel yang memiliki cara pemasangan yang sama antara ujung satu dengan ujung yang lainnya. Jika kalian mengecek kabel stright, maka lampu no 1 - 8 harus hidup semua secara berurutan.
 -  Nomor:Lampu	Pasangan
 1:1
