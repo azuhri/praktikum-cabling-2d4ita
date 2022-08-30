@@ -4,11 +4,7 @@
 
 
 ### 1 DASAR TEORI
-Kabel UTP merupakan salah satu media transmisi yang paling banyak
-digunakan untuk membuat sebuah jaringan local (Local Area Network), selain karena
-harganya relative murah, mudah dipasang dan cukup bisa diandalkan. Sesuai
-namanya Unshielded Twisted Pair berarti kabel pasangan berpilin/terbelit (twisted
-pair) tanpa pelindung (unshielded)
+Kabel UTP singkatan dari Unshielded Twisted Pair. Kabel UTP terbuat dari bahan penghantar tembaga memiliki isolasi dari plastik dan terbungkus dari bahan isolasi yang dapat melindungi dari api dan kerusakan fisik. Kabel UTP terdiri dari empat pasang inti kabel yang saling berbelit di mana masing-masing pasangan memiliki kode warna berbeda. Kabel UTP merupakan kabel yang sering digunakan dalam jaringan lokal (LAN = Local Area Network), karena kinerja yang ditunjukkannya relatif bagus dan harganya murah. Dalam kebanyakan kasus, kabel UTP diimplementasikan menggunakan konektor modul telepon seperti RJ-11 dan RJ-45. Sesuai namanya Unshielded Twisted Pair berarti kabel pasangan berpilin/terbelit (twisted pair) tanpa pelindung (unshielded)
 
 ### 1.1 MEDIA JARINGAN KOMPUTER
 
@@ -114,6 +110,7 @@ Ujung B (Konektor 2)
 3. Konektor RJ45
  
 ![rj 45](https://i0.wp.com/2.bp.blogspot.com/-vEz-bbmP_74/WQXxqSu7MVI/AAAAAAAAAYo/PSyBd0DzD9YzR2CmQVEdYOpKU_d9-5hXACLcB/s200/2-Cara-Crimping-dan-Pasang-Konektor-RJ-45-pada-Kabel-UTP-LAN-model-Straight-serta-Cross-emerer.com-.jpg?resize=200%2C147&ssl=1)
+
 - RJ45 adalah konektor kabel ethernet yang kebanyakan memiliki fungsi sebagai konektor pada topologi jaringan komputer LAN (Local Area Network) dan topologi jaringan lainnya. Konektor RJ45 memiliki 8 buah pin.
 
 4. LAN Tester
@@ -153,6 +150,7 @@ A. Membuat Kabel Straight UTP
 - Coklat pada Pin 
 
 ### 2.3 LANGKAH PEMBUATAN KABEL TIPE CROSSOVER
+
 1. Kupas bagian ujung kabel UTP, kira-kira 2 cm.
 
 ![LAN Tester](https://camo.githubusercontent.com/f00fe8ce51d9fca4b510529bfa782171897349887558423d2edfbf784c8f7656/68747470733a2f2f692e706f7374696d672e63632f39465064725037342f494d4732303232303832333135333833352e6a7067)
@@ -168,6 +166,7 @@ A. Membuat Kabel Straight UTP
 4. Masukan kabel yang sudah lurus dan sejajar tersebut ke dalam konektor RJ-45, dan
 
 5. pastikan semua kabel posisinya sudah benar dengan posisi sebagai berikut:
+
 ![LAN Tester](https://camo.githubusercontent.com/9644d1c4acbcbb856c4b13d77198143d33e3ca61da2b98aa157458c4e8ff652b/68747470733a2f2f692e706f7374696d672e63632f4e305a394e4c58712f494d4732303232303832333135353435312e6a7067)
 
 Ujung A (Konektor 1)
